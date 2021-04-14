@@ -1,1 +1,2 @@
-This is the vagrant projetc
+This is the vagrant project
+
