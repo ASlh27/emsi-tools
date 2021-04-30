@@ -1,1 +1,1 @@
-this is the "shell, basics demo"
+SHELL BASICS README FILE !
